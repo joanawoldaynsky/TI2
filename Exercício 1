@@ -12,3 +12,5 @@ class Somar2Num {
 		System.out.println("Soma: "+soma);
 	}
 }
+
+AUTO AVALIAÇÃO: Eu me auto avalio em 5 pontos, já que cumpri com todos os requisitos do exercício e realizei o que foi pedido. 
