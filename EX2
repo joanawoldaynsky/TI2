@@ -1,0 +1,6 @@
+CREATE TABLE Usuario{
+codigo int not null;
+login varchar(45);
+senha varchar(45);
+sexo 
+}
